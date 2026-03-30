@@ -2,6 +2,6 @@
 
 🎓 B.Tech Student – CSE  
 🏫 VIT Bhopal University  
-📅 Graduation Year: 2028  
+📅 Graduation Year: 2030  
 
 💡 I am interested in learning programming, AI, and building real-world projects.
